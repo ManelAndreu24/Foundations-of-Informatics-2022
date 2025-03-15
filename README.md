@@ -1,11 +1,8 @@
-# Foundations of Informatics
+# Fundamentals of Computer Science
 
-## Course Description
-
-This course introduces the basic principles of computer science, focusing on problem-solving methods, algorithm design, and programming fundamentals.
+## Description
+This course introduces basic computing concepts, covering information representation, operating systems fundamentals, and computer networks.
 
 ## Practical Work
-
-- **Basic Programming Exercises:** Implement simple algorithms using fundamental programming constructs.
-- **Algorithm Design:** Develop algorithms to solve specific problems and analyze their efficiency.
-- **Project:** Create a small applications that integrates the concepts learned throughout the course.
+- **Basic C Programming:** Implementing simple algorithms to solve common problems while familiarizing with C syntax and structures.
+- **File and Directory Management:** Manipulating files within the system, including read, write, and directory organization operations.
